@@ -313,7 +313,7 @@ p {
   margin-top: 140px;
 }
 .navigation ul {
-  display: flex;
+  /* display: flex; */
   height: 37px;
   align-items: center;
   padding: 0 10px;
